@@ -1,0 +1,71 @@
+doid_code	doid_name	diseaseId
+DOID:1319	brain cancer	umls:C1334557
+DOID:1324	lung cancer	umls:C0024624
+DOID:1324	lung cancer	umls:C0153491
+DOID:1324	lung cancer	umls:C0153492
+DOID:1324	lung cancer	umls:C0153493
+DOID:263	kidney cancer	umls:C0494158
+DOID:1793	pancreatic cancer	umls:C0153458
+DOID:1793	pancreatic cancer	umls:C0153459
+DOID:1793	pancreatic cancer	umls:C0153460
+DOID:1793	pancreatic cancer	umls:C0153463
+DOID:2394	ovarian cancer	umls:C1299247
+DOID:1612	breast cancer	umls:C0153555
+DOID:5041	esophageal cancer	umls:C0153413
+DOID:5041	esophageal cancer	umls:C0153414
+DOID:5041	esophageal cancer	umls:C0153415
+DOID:5041	esophageal cancer	umls:C0153416
+DOID:5041	esophageal cancer	umls:C0496775
+DOID:8850	salivary gland cancer	umls:C0153362
+DOID:10534	stomach cancer	umls:C0153421
+DOID:10534	stomach cancer	umls:C0153422
+DOID:10534	stomach cancer	umls:C0153423
+DOID:3571	liver cancer	umls:C0854795
+DOID:3571	liver cancer	umls:C0861869
+DOID:3571	liver cancer	umls:C1334590
+DOID:1993	rectum cancer	umls:C0949022
+DOID:2174	ocular cancer	umls:C0153632
+DOID:3277	thymus cancer	umls:C0040116
+DOID:3277	thymus cancer	umls:C0751552
+DOID:10153	ileum cancer	umls:C0153428
+DOID:10811	nasal cavity cancer	umls:C0728864
+DOID:1115	sarcoma	umls:C0153519
+DOID:11615	penile cancer	umls:C0153600
+DOID:11819	ureter cancer	umls:C0153619
+DOID:11920	tracheal cancer	umls:C0153489
+DOID:13499	jejunal cancer	umls:C0153427
+DOID:1725	peritoneum cancer	umls:C0153466
+DOID:175	vascular cancer	umls:C0346845
+DOID:175	vascular cancer	umls:C1290407
+DOID:175	vascular cancer	umls:C1334616
+DOID:175	vascular cancer	umls:C1334617
+DOID:175	vascular cancer	umls:C1334630
+DOID:175	vascular cancer	umls:C1335753
+DOID:1790	malignant mesothelioma	umls:C0278752
+DOID:3121	gallbladder cancer	umls:C0278806
+DOID:3565	meningioma	umls:C1334698
+DOID:3565	meningioma	umls:C1336537
+DOID:5099	middle ear cancer	umls:C0345617
+DOID:5559	mediastinal cancer	umls:C0153504
+DOID:5612	spinal cancer	umls:C0153646
+DOID:5875	retroperitoneal cancer	umls:C0035358
+DOID:5875	retroperitoneal cancer	umls:C0153464
+DOID:5875	retroperitoneal cancer	umls:C0153465
+DOID:8778	Crohn's disease	umls:C0156146
+DOID:8577	ulcerative colitis	umls:C0375359
+DOID:5419	schizophrenia	umls:C0029838
+DOID:6364	migraine	umls:C0042331
+DOID:3312	bipolar disorder	umls:C0236780
+DOID:1459	hypothyroidism	umls:C002067
+DOID:8398	osteoarthritis	umls:C0157946
+DOID:90	degenerative disc disease	umls:C0410606
+DOID:90	degenerative disc disease	umls:C0750218
+DOID:9296	cleft lip	umls:C0158651
+DOID:1094	attention deficit hyperactivity disorder	umls:C0154629
+DOID:4481	allergic rhinitis	umls:C0002103
+DOID:585	nephrolithiasis	umls:C0156257
+DOID:12185	otosclerosis	umls:C0029696
+DOID:1312	focal segmental glomerulosclerosis	umls:C0403425
+DOID:216	dental caries	umls:C0949128
+DOID:216	dental caries	umls:C1456144
+DOID:216	dental caries	umls:C1456145
